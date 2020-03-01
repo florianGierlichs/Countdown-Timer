@@ -1,0 +1,26 @@
+{
+  "name": "countdown-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/florianGierlichs/Countdown-Timer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/florianGierlichs/Countdown-Timer/issues"
+  },
+  "homepage": "https://github.com/florianGierlichs/Countdown-Timer#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "csslint": "^1.0.5",
+    "eslint": "^6.8.0",
+    "htmlhint": "^0.11.0",
+    "prettier": "^1.19.1"
+  }
+}
